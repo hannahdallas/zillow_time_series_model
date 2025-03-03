@@ -1,3 +1,5 @@
+![house](./images/house.jpg)
+
 # Business Understanding
 * Objective: Identify five ZIP codes in Westchester County where a client can purchase a home within a $500,000 budget, aiming for optimal Return on Investment (ROI) over a 5-year period.
 * Stakeholder: A prospective homebuyer seeking a property in Westchester County that not only fits within their financial constraints but also promises substantial appreciation.
