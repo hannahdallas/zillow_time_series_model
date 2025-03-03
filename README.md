@@ -30,10 +30,12 @@ The columns are:
 
 # Exploratory Data Analysis
 We used AutoArima to forecast home prices for the next 5 years for the zipcodes in Westchester within our client's budget.
+
 ![Price Forecasts](./images/price_forecasts.png)
 
 # Conclusion
 ![Top ROIs](./images/top_5_roi.png)
+
 The top zipcodes by expected ROI over 5 years are:
 10701 - Yonkers
 10704 - Yonkers
