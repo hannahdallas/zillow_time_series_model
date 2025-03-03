@@ -1,5 +1,5 @@
 # Business Understanding
-*Objective: Identify five ZIP codes in Westchester County where a client can purchase a home within a $500,000 budget, aiming for optimal Return on Investment (ROI) over a 5-year period.
+* Objective: Identify five ZIP codes in Westchester County where a client can purchase a home within a $500,000 budget, aiming for optimal Return on Investment (ROI) over a 5-year period.
 * Stakeholder: A prospective homebuyer seeking a property in Westchester County that not only fits within their financial constraints but also promises substantial appreciation.
 * Problem: Determining which ZIP codes in Westchester County offer homes priced at or below $500,000 and are projected to yield the highest ROI over a 5-year span.
 
@@ -30,10 +30,10 @@ The columns are:
 
 # Exploratory Data Analysis
 We used AutoArima to forecast home prices for the next 5 years for the zipcodes in Westchester within our client's budget.
-[Price Forecasts](./images/price_forecasts.png)
+![Price Forecasts](./images/price_forecasts.png)
 
 # Conclusion
-[Top ROIs](./images/top_5_roi.png)
+![Top ROIs](./images/top_5_roi.png)
 The top zipcodes by expected ROI over 5 years are:
 10701 - Yonkers
 10704 - Yonkers
