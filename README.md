@@ -30,10 +30,10 @@ The columns are:
 
 # Exploratory Data Analysis
 We used AutoArima to forecast home prices for the next 5 years for the zipcodes in Westchester within our client's budget.
-[Price Forecasts](price_forecasts.png)
+[Price Forecasts](./images/price_forecasts.png)
 
 # Conclusion
-[Top ROIs](/images/top_5_roi.png)
+[Top ROIs](./images/top_5_roi.png)
 The top zipcodes by expected ROI over 5 years are:
 10701 - Yonkers
 10704 - Yonkers
@@ -59,8 +59,8 @@ Enhance the Forecasting Model:
 More details on the analysis can be found [here](https://github.com/hannahdallas/zillow_time_series_model/blob/main/notebook.ipynb)
 The presentation can be found [here](https://docs.google.com/presentation/d/1UnwhOtG6VXyiT7JYCG60OG-SGA8XWjSGLtsaN6632Xw/edit#slide=id.p6)
 
-├── zillow_data.csv
-├── images
-├── README.md
-├── presentation.pdf
-└── notebook.ipynb
+├── zillow_data.csv   
+├── images/              
+├── README.md           
+├── presentation.pdf      
+└── notebook.ipynb  
