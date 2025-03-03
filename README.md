@@ -1,4 +1,4 @@
-![house](./images/house.jpg)
+<img src="./images/house.jpg" alt="house" width="300"/>
 
 # Business Understanding
 * Objective: Identify five ZIP codes in Westchester County where a client can purchase a home within a $500,000 budget, aiming for optimal Return on Investment (ROI) over a 5-year period.
