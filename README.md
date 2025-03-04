@@ -60,7 +60,8 @@ Enhance the Forecasting Model:
 * Create model using Facebook’s Prophet and use it for comparison
  
 # Links
-More details on the analysis can be found [here](https://github.com/hannahdallas/zillow_time_series_model/blob/main/notebook.ipynb)
+More details on the analysis can be found [here].(https://github.com/hannahdallas/zillow_time_series_model/blob/main/notebook.ipynb)
+
 The presentation can be found [here](https://docs.google.com/presentation/d/1UnwhOtG6VXyiT7JYCG60OG-SGA8XWjSGLtsaN6632Xw/edit#slide=id.p6)
 
 ├── zillow_data.csv   
